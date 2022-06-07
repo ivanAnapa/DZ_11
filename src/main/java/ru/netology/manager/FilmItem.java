@@ -16,35 +16,4 @@ public class FilmItem {
         this.posterURL = posterURL;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getGenre() {
-        return genre;
-    }
-
-    public void setGenre(String genre) {
-        this.genre = genre;
-    }
-
-    public String getPosterURL() {
-        return posterURL;
-    }
-
-    public void setPosterURL(String posterURL) {
-        this.posterURL = posterURL;
-    }
 }
